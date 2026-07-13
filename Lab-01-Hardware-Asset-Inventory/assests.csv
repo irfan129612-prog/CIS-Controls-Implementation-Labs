@@ -1,0 +1,6 @@
+Asset ID,Asset Type,Hostname,IP Address,Location,Owner,Status
+EC2-001,Ubuntu EC2 Instance,ip-172-31-10-33.ec2.internal,172.31.10.33,AWS VPC,Irfan Ahmed,Active
+EC2-002,EC2 Instance,ip-172-31-10-155.ec2.internal,172.31.10.155,AWS VPC,AWS Lab,Active
+EC2-003,EC2 Instance,ip-172-31-10-177.ec2.internal,172.31.10.177,AWS VPC,AWS Lab,Active
+EC2-004,EC2 Instance,ip-172-31-10-191.ec2.internal,172.31.10.191,AWS VPC,AWS Lab,Active
+GW-001,Network Gateway,ip-172-31-10-254.ec2.internal,172.31.10.254,AWS VPC,AWS Network,Active
