@@ -26,6 +26,10 @@
 
 ---
 
+## 📑 Verified Lab Index
+
+**[Browse the actual lab files →](LAB_INDEX.md)** — links are generated from existing repository paths.
+
 ## 📚 Lab and Project Documentation
 
 A hands-on cybersecurity lab collection covering the implementation of the CIS Critical Security Controls using open-source tools, Windows, Linux, and cloud environments.
