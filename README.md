@@ -1,4 +1,32 @@
-# 🛡️ CIS Controls Implementation Labs
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0F172A,50:155E75,100:0EA5E9&text=CIS%20Controls%20Implementation&fontColor=FFFFFF&fontSize=25&desc=Hardening%2C%20security%20monitoring%20and%20defensive%20operations&descSize=13&descAlignY=76" alt="CIS Controls Implementation" width="100%"/>
+
+<h2>CIS Controls Implementation</h2>
+**Hands-on security controls, validation and hardening documentation.**
+
+[🏠 Main Profile](https://github.com/irfan129612-prog) · [📂 All Repositories](https://github.com/irfan129612-prog?tab=repositories) · [🔗 LinkedIn](https://www.linkedin.com/in/irfan1296/)
+</div>
+
+---
+
+## 🔎 Repository Overview
+
+| **Focus** | CIS Controls Implementation |
+| :--- | :--- |
+| **Topics / Tools** | Hardening, security monitoring and defensive operations |
+| **Portfolio type** | Technical labs and project documentation |
+| **Maintainer** | [Irfan Ahmed](https://github.com/irfan129612-prog) |
+
+### Quick Navigation
+- [Lab and project documentation](#-lab-and-project-documentation)
+- [Documentation standard](#-documentation-standard)
+- [Contact](#-contact)
+
+> **Evidence note:** Documented activities and results should be evaluated from actual lab files and screenshots. Never expose credentials, real tokens, personal data or unauthorized security targets.
+
+---
+
+## 📚 Lab and Project Documentation
 
 A hands-on cybersecurity lab collection covering the implementation of the CIS Critical Security Controls using open-source tools, Windows, Linux, and cloud environments.
 
@@ -159,3 +187,15 @@ Cybersecurity | Linux | SOC | SIEM | Threat Hunting | Cloud Security
 ---
 
 ## ⭐ If you find this repository useful, consider giving it a Star.
+
+---
+
+## 🗂 Documentation Standard
+
+For each lab, the recommended structure is **objective → prerequisites → implementation → verification → troubleshooting → lessons learned**. Add sanitized screenshots, code, configuration, datasets and expected output where available. This is an ongoing documentation standard, not a claim that every existing lab has all these components.
+
+## 🤝 Contact
+
+Maintained by **[Irfan Ahmed](https://github.com/irfan129612-prog)** · [LinkedIn](https://www.linkedin.com/in/irfan1296/)
+
+<p align="center"><sub>Learn → Implement → Verify → Document → Improve</sub></p>
