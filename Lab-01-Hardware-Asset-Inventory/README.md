@@ -173,3 +173,10 @@ Cybersecurity | SOC Analyst | Linux | SIEM | Threat Detection | Industrial Cyber
 ---
 
 ⭐ If you found this repository helpful, consider giving it a star.
+
+
+---
+
+### 📚 Portfolio Navigation
+
+[← All Labs](../LAB_INDEX.md) · [Repository Overview](../README.md) · [Main Portfolio](https://github.com/irfan129612-prog)
